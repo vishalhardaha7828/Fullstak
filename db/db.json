@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": "7301",
+      "email": "vishal@test.com",
+      "name": "vishal",
+      "password": "vishal@123"
+    },
+    {
+      "id": "7302",
+      "email": "hardaha@test.com",
+      "name": "vishal",
+      "password": "ji@123"
+    },
+    {
+      "id": "7303",
+      "email": "hadahaji@test.com",
+      "name": "vishal",
+      "password": "ji@123"
+    },
+    {
+      "id": "7304",
+      "email": "vishnu@test.com",
+      "name": "vishnu",
+      "password": "vishnu@123"
+    },
+    {
+      "id": "7305",
+      "email": "bhawna@test.com",
+      "name": "bhawna",
+      "password": "bhawna@123"
+    },
+    {
+      "id": "603f",
+      "email": "vikash@test.com",
+      "name": "vikash",
+      "password": "vikash@123"
+    },
+    {
+      "id": "bf5b",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "df68",
+      "email": "vishalhardaha7828@gmail.com",
+      "password": "156464"
+    },
+    {
+      "id": "1040",
+      "email": "",
+      "password": ""
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "RCB restaurant",
+      "address": "Khermai Devi Chauk",
+      "contact": "12345678900",
+      "id": "4"
+    },
+    {
+      "name": "Star Bag",
+      "address": "Madhupuri Mandla",
+      "contact": "7354345012",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "name": "Star Bag",
+      "address": "Madhupuri Mandla",
+      "contact": "7354345012"
+    },
+    {
+      "name": "Swiggi",
+      "address": "Madhupuri Mandla",
+      "contact": "8976541230",
+      "id": "4cd4"
+    },
+    {
+      "id": "e9ef",
+      "name": "vishal",
+      "address": "Madhupuri Mandla",
+      "contact": "8976541230"
+    }
+  ]
+}
